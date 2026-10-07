@@ -1,0 +1,40 @@
+CADENA_CAFE v1
+2
+2
+BLOQUE
+0
+Thu Oct  1 23:41:13 2026
+0000
+0085d2d4b3aa7527
+33800
+2
+LOTE-001
+cosecha
+Finca La Esperanza
+500
+2026-10-01
+LOTE-001
+trilla
+Cafes Sogamoso
+200
+2026-10-01
+BLOQUE
+1
+Thu Oct  1 23:56:09 2026
+0085d2d4b3aa7527
+000d42c7f1d633e8
+700
+2
+LOTE-001
+exportacion
+La Constanza
+300
+2026-10-01
+LOTE-001
+exportacion
+Suamox
+200
+2026-10-01
+PENDIENTES
+0
+FIN
