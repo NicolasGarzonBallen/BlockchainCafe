@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnucleo.a CMakeFiles/nucleo.dir/Transaccion.cpp.o CMakeFiles/nucleo.dir/Bloque.cpp.o CMakeFiles/nucleo.dir/Blockchain.cpp.o
-/usr/bin/ranlib libnucleo.a

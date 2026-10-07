@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/nicolas/proyectos/BlockChainProject/cmake-build-debug/_deps/raylib-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
